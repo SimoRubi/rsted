@@ -17,7 +17,7 @@ default_rst_opts = {
     'raw_enabled': False,
     'stylesheet_path': None,
     'traceback': True,
-    'halt_level': 5,
+    'halt_level': 0,
 }
 
 def rst2html(rst, theme=None, opts=None):

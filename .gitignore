@@ -8,3 +8,10 @@
 /var/run
 /run.sh
 /env
+.idea
+bin
+include
+lib
+share
+local
+pip-selfcheck.json
